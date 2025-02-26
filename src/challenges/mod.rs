@@ -5,7 +5,7 @@ fn disemvowel(s: &str) -> String {
 #[cfg(test)]
 mod tests {
     use super::*;
-    
+
     #[test]
     fn example_test() {
         assert_eq!(
