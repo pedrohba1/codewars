@@ -1,3 +1,1 @@
-mod challenges;
-
-pub fn main() {}
+fn main() {}
